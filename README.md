@@ -69,7 +69,7 @@ I build modern, responsive, and high-converting WordPress websites for businesse
 <br><br>
 
 <a href="https://theroofcrafters.com/">
-<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
+<Live-Demo-blue?style=for-the-badge">
 </a>
 
 </td>
